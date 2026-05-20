@@ -1,0 +1,19 @@
+{
+  "name": "countdown-clock",
+  "version": "1.0.0",
+  "description": "Countdown Clock is a simple web app for tracking the time remaining until a specific event or deadline. Built to deepen my understanding of JavaScript Date handling and time-based logic.",
+  "keywords": [
+    "javascript date",
+    "countdown"
+  ],
+  "license": "ISC",
+  "author": "Omosuyi Olawole",
+  "repository": {
+    "url": ""
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

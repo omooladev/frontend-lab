@@ -17,7 +17,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "biome check",
-    "format": "biome format --write"
+    "format": "biome format --write",
+    "brute-force-rate-limiter": "node ./src/lib/rate-limiter/brute-force.ts"
   },
   "dependencies": {
     "next": "16.2.6",
